@@ -1,7 +1,7 @@
 # Citi Bike NYC Analysis and Ride Demand Prediction
 
 <figure>
-    <img src="  §   §image/citi-bike.png" style="width:100%">
+    <img src="image/citibike.png" style="width:100%">
 </figure>
 This Challenge focuses on analyzing the **Citi Bike NYC** data to uncover patterns in bike usage and predict ride demand using various machine learning models. Through data analysis, we also answer several key business questions that can help improve Citi Bike's operations, optimize their fleet distribution, and enhance customer satisfaction.
 
